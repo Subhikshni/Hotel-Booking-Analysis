@@ -14,7 +14,7 @@ This repository contains the code and documentation for the Hotel Booking Analys
 - [License](#license)
 
 ## Dataset
-The dataset used for this analysis is included in the `data/` directory. It has been cleaned and preprocessed to ensure accurate and meaningful results.
+The dataset used for this analysis is included in the `Hotel_bookings 2.csv` directory. It has been cleaned and preprocessed to ensure accurate and meaningful results.
 
 ## Analysis
 The analysis is divided into several steps:
@@ -30,4 +30,8 @@ The `visualizations/` directory contains all the generated visualizations in PNG
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
-- Required Python packages are listed in `requirements.txt`. Install them using:
+- Required Python packages are :
+  ~  pandas
+  ~ matplotlib.pyplot
+  ~ seaborn
+  ~ warnings
